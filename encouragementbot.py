@@ -13,19 +13,19 @@ while True:
 
         if each_word == "sad":
             feelings_list.append("sad")
-            encouragement_list.append("that tomorrow will be a better day and don't forget to look on the bight side of things")
+            encouragement_list.append("tomorrow will be a better day and don't forget to look on the bight side of things")
             counter += 1
         if each_word == "happy":
             feelings_list.append("happy")
-            encouragement_list.append("to keep on smiling and not give up despite the challenges you face, you can do it! Jia youzz")
+            encouragement_list.append("remember to keep on smiling and not give up despite the challenges you face, you can do it! Jia youzz")
             counter += 1
         if each_word == "tired":
             feelings_list.append("tired")
-            encouragement_list.append("that you are stronger than you think and you can do it, grit your teeth and persevere on.")
+            encouragement_list.append("you are stronger than you think and you can do it, grit your teeth and persevere on.")
             counter += 1
         if each_word == "stressed":
             feelings_list.append("stressed")
-            encouragement_list.append("to take a break and relax! im sure you'll do well so dont be too stressed!!")
+            encouragement_list.append("take a break and relax! im sure you'll do well so dont be too stressed!!")
             counter += 1
     if counter == 0:
         output = "please only reply with the selected words"
