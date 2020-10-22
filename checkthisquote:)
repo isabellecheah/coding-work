@@ -35,7 +35,7 @@ while True:
 
   if counter == 0:
     
-      output = "Sorry I don't really understand. Please use different words?"
+      output = "Sorry I don't really understand. Please use different words? Use words lke sad, happy, tired, and  iwannadie. Dont caps the first letter"
 
   elif counter == 1:
     
