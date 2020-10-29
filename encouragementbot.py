@@ -27,6 +27,10 @@ while True:
             feelings_list.append("stressed")
             encouragement_list.append("take a break and relax! im sure you'll do well so dont be too stressed!!")
             counter += 1
+         if each_word == "angry":
+            feelings_list.append("angry")
+            encouragement_list.append("why? just relax and dont think about it. breathe in and breathe out!")
+            counter += 1
     if counter == 0:
         output = "please only reply with the selected words"
 
